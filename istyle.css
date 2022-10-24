@@ -1,0 +1,66 @@
+body {
+    font-family: Verdana;
+    font-size: 10pt;
+    color: black;
+}
+
+h1 {
+    font-family: Helvetica;
+    font-size: 24pt;
+}
+
+.publist {
+    list-style: square outside none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+.links-text {
+    align: center;
+    color: black;
+    font-size: 10pt;
+    font-family: Verdana;
+}
+.links {
+    align: center;
+    color: black;
+    font-size: 20pt;
+    font-family: courier;
+    font-weight: bold;
+}
+.section {
+	background-color: #660000;
+	color: #DDDDDD;
+	letter-spacing: 5px;
+	font-size: 14pt;
+	margin-left: -10px;
+	margin-right: -10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-left: 15px;
+	padding-bottom: 2px;
+	font-variant: small-caps;
+	font-family: helvetica;
+	font-weight: bold;
+}
+
+ul.publist li {
+    margin-bottom: 10px;
+}
+
+.centering {
+	align: center;
+	text-align: center;
+}
+
+.mainbody {
+    background: #cccccc;
+	width : 720px;
+    margin:auto;
+	margin-top : 1em;
+	margin-bottom : 1em;
+    padding: 0px 10px 0px 10px;
+	text-align: left;
+	border : medium solid #660000;
+}
+
